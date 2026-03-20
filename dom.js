@@ -69,19 +69,19 @@
 //     document.body.style.backgroundColor="black"
 // }
 
-function color(a){
-    document.body.style.backgroundColor=a
-}
-function color(a){
-    document.body.style.backgroundColor=a
-}
-function color(a){
-    document.body.style.backgroundColor=a
-}
-function color(a){
-    document.body.style.backgroundColor=a
-}
-function color(a){
-    document.body.style.backgroundColor=a
-}
+// function color(a){
+//     document.body.style.backgroundColor=a
+// }
+// function color(a){
+//     document.body.style.backgroundColor=a
+// }
+// function color(a){
+//     document.body.style.backgroundColor=a
+// }
+// function color(a){
+//     document.body.style.backgroundColor=a
+// }
+// function color(a){
+//     document.body.style.backgroundColor=a
+// }
 

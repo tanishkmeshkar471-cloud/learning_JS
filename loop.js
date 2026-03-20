@@ -50,16 +50,16 @@
 //     console.log(table*num);
 // }
 
-let num = Number(prompt("enter a number"))
-if (num >= 1 && num <= 5) {
-    for (let table = 1; table <= 10; table++) {
-        console.log(table * num)
-    }
-}
-    else if(num >= 6 && num <= 10){
-        for (let a = 10; a >= 1; a--){
-            if (a % 2 == 0){
-                console.log(a*a);
-            }
-        }
-    }
+// let num = Number(prompt("enter a number"))
+// if (num >= 1 && num <= 5) {
+//     for (let table = 1; table <= 10; table++) {
+//         console.log(table * num)
+//     }
+// }
+//     else if(num >= 6 && num <= 10){
+//         for (let a = 10; a >= 1; a--){
+//             if (a % 2 == 0){
+//                 console.log(a*a);
+//             }
+//         }
+//     }
